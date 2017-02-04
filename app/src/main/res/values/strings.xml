@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="hit">Hit</string>
+    <string name="stand">Stand</string>
+    <string name="card_double">Double</string>
+    <string name="buyinAmount">Buy-in Amount: </string>
+    <string name="rulesButton">Rules</string>
+    <string name="newgameButton">Buy-in and Start a New Game!</string>
+    <string name="start">Play</string>
+    <string name="surrender">Surrender</string>
+    <string name="quit">Quit</string>
+    <string name="game">Start Game</string>
+    <string name="bet">Bet: $0</string>
+    <string name="playersscore">Your Score: 0</string>
+    <string name="dealersscore">Dealer\'s Score : 0</string>
+    <string name="highest">Highest: 0</string>
+    <string name="bank">$0.00</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
